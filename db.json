@@ -1,0 +1,27 @@
+{
+  "planszowki":[
+  {
+    "tytul": "Szachy",
+    "minLG": "2",
+    "maxLG": "2",
+    "czas": "60",
+    "trudnosc": 5
+  },
+  {
+    
+    "tytul": "Splendor",
+    "minLG": "3",
+    "maxLG": "4",
+    "czas": "120",
+    "trudnosc": 3
+  },
+  {
+    
+    "tytul": "DND",
+    "minLG": "2",
+    "maxLG": "8",
+    "czas": "160",
+    "trudnosc": 2 
+  }
+]
+}
